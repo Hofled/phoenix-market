@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 img {
-    border: 0;
-    box-shadow: 0;
+  border: 0;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
 }
