@@ -4,4 +4,4 @@ It combines
 
 ## Statistics
 - [Items for sale count per player](./out/player_items_for_sale_count.html)
-- [Scroll availability](scroll_availability.html)
+- [Scroll availability](./out/scroll_availability.html)
