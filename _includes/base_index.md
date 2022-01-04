@@ -1,2 +1,2 @@
-- [player]({{ site.baseurl }} {% link indexes/player_index.md %})
-- [scrolls]({{ site.baseurl }} {% link indexes/scrolls_index.md %})
+- [player]({{ site.baseurl }}{% link indexes/player_index.md %})
+- [scrolls]({{ site.baseurl }}{% link indexes/scrolls_index.md %})
