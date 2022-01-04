@@ -8,8 +8,6 @@ __pycache__/
 
 .vscode/
 
-jupyter-tests/
-
 # Data folder
 data/
 
