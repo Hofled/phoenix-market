@@ -8,6 +8,8 @@ __pycache__/
 
 .vscode/
 
+_site/
+
 # Data folder
 data/
 

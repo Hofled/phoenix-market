@@ -1,0 +1,2 @@
+- [player]({% link indexes/player_index.md %})
+- [scrolls]({% link indexes/scrolls_index.md %})
