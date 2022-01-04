@@ -8,7 +8,7 @@ def index_tree(root, output):
             # create directory page
             create_dir_page(f, link_text)
             # write link to directory page, and index internal files
-            link_url = f"{{% link {'/'.join(['indexes', f.name])}_index.md %}}"
+            link_url = f"{{{{ site.baseurl }}}} {{% link {'/'.join(['indexes', f.name])}_index.md %}}"
             output.write(f"- [{link_text}]({link_url})\n")
         elif f.is_file():
             if f.name[0] == '.':
