@@ -6,4 +6,4 @@ The purpose of this website is to provide statistics to the public market prices
 
 ## Statistics
 - [Items for sale count per player](./out/player_items_for_sale_count.html)
-- [Scroll availability](./out/scroll_availability.html)
+- [Scroll statistics](./out/scrolls.html)
